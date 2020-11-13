@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="labexam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/labexam_jar</output-path>
+    <root id="archive" name="labexam.jar">
+      <element id="module-output" name="labexam" />
+      <element id="module-source" name="labexam" />
+    </root>
+  </artifact>
+</component>
